@@ -1,0 +1,6 @@
+body {
+	background-image: url("background.jpeg");
+}
+.image {
+	display: inline-block;
+}
